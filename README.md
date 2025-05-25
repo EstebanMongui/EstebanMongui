@@ -1,12 +1,10 @@
 # 👋 Esteban Monguí (Tebi)
 
-| | |
-|-|-|
-| <figure style="height:100px; width:100px; background-color: white; border-radius:50%; overflow:hidden"><img style="max-width:100px" src="https://media.licdn.com/dms/image/C4E03AQEowddK4dwEPw/profile-displayphoto-shrink_800_800/0/1613934767093?e=1687392000&v=beta&t=iOlVl3xAlQrXfBf-g7OqtFFjalRIo7URAKhesqjIKSA"/></figure> | As a seasoned software engineer, I am driven by a passion for excellence in software design and development. My technical expertise spans across the entire software development lifecycle, with a focus on front-end development and technical leadership. 
+As a seasoned software engineer, I am driven by a passion for software design and development excellence. My technical expertise spans the entire software development lifecycle, focusing on front-end development and technical leadership. 
 
 My approach to development is grounded in clean coding techniques and meticulous tool implementation, ensuring that every project I work on meets the highest standards of quality and usability. With a strong background in e-commerce problem-solving, I have a keen understanding of the unique challenges of developing software that delivers results in a dynamic and fast-paced environment.
 
-I am deeply committed to the principles of Test Driven Development (TDD) and believe that a well-designed software architecture and comprehensive documentation are critical to the success of any project. My skill set includes expertise in TypeScript, React, and NodeJs, making me match to any team looking to build robust and scalable software solutions.
+I am deeply committed to the principles of Test Driven Development (TDD) and believe that a well-designed software architecture and comprehensive documentation are critical to the success of any project. My skill set includes expertise in TypeScript, React, and Node.js, making me a match for any team looking to build robust and scalable software solutions.
 
 <section style="padding: 25px 0px">
 
@@ -29,26 +27,6 @@ I am deeply committed to the principles of Test Driven Development (TDD) and bel
 | Backend | NodeJs, Express |
 | Database | Mongo Db |
 | Testing | Jest, react testing library, k6, xk6, lighthouse |
-</section>
-
-## 👇 About me
-
-🎾 Practicing tennis (I'm a beginner) <br>
-🤑 Learning about investing and assets analysis (ETFs and FICs specifically) <br>
-_🚶 Working on my personal and professional growth <br>
-
-<strong>Recommended books</strong> <br>
-- "7 habits of highly effective people" by Stephen Covey
-- "The intelligent investor" by Benjamin Graham
-- "Lean analytics" by Erick Ries
-
-<strong>Recommended podcasts</strong>
-
-- "On porpose" by Jay Shetty
-- "Mis propias finanzas" by Juan Pablo Zuluaga
-
-
-
 </section>
 
 
