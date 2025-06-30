@@ -1,20 +1,19 @@
 
 # 👨‍💻 Esteban Monguí Torres (Tebi)
 
-**Front-End Developer Semi-Sr**  
-React · TypeScript · Next.js · GraphQL · Astro · Tailwind
-
----
+### **Front-End Developer Semi-Sr**  
+**React · TypeScript · Next.js · GraphQL · Astro · Tailwind**
 
 ## 🧾 About Me
+
+<img src="https://github.com/user-attachments/assets/d79fd339-3e88-459f-858a-08dc38d834d1" align="left" width="25%" style="margin-bottom: 2rem;"/>
 
 I am a passionate Front-End Developer with over 4 years of experience **building modern and performant web applications.**  
 I specialize in developing e-commerce solutions** using React, TypeScript, and GraphQL **with a focus on **optimizing Core Web Vitals and scalable architectures.**
 
 I enjoy crafting clean and maintainable UI, leading technical efforts, and collaborating with multidisciplinary teams in fast-paced environments.
 
----
-
+<pre></pre>
 ## 🛠️ Tech Stack
 
 - **Languages & Frameworks:** TypeScript, JavaScript, React, Next.js, GraphQL, Astro
