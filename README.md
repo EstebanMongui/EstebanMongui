@@ -1,41 +1,55 @@
-# 👋 Esteban Monguí (Tebi)
 
-As a seasoned software engineer, I am driven by a passion for software design and development excellence. My technical expertise spans the entire software development lifecycle, focusing on front-end development and technical leadership. 
+# 👨‍💻 Esteban Monguí Torres (Tebi)
 
-My approach to development is grounded in clean coding techniques and meticulous tool implementation, ensuring that every project I work on meets the highest standards of quality and usability. With a strong background in e-commerce problem-solving, I have a keen understanding of the unique challenges of developing software that delivers results in a dynamic and fast-paced environment.
-
-I am deeply committed to the principles of Test Driven Development (TDD) and believe that a well-designed software architecture and comprehensive documentation are critical to the success of any project. My skill set includes expertise in TypeScript, React, and Node.js, making me a match for any team looking to build robust and scalable software solutions.
-
-<section style="padding: 25px 0px">
-
-## 🚀 Skills
-
-| Professional Skills  | Technical Skills                         | Transversal skills         |
-|----------------------|------------------------------------------|----------------------------|
-|Software design       | web development                          | Creative and logic thinking|
-|Front end development | unit, integration and performance testing| Continuous learning        |
-|Processes design      | Object Oriented Programming              | Leadership and initiative  |
-</section>
-
-<section style="padding: 25px 0px">
-
-## 💻 Tech Stack
-
-| Category | Technology |
-|----------|------------|
-| Frontend | JavaScript, TypeScript, React, HTML5, CSS3 |
-| Backend | NodeJs, Express |
-| Database | Mongo Db |
-| Testing | Jest, react testing library, k6, xk6, lighthouse |
-</section>
-
+**Front-End Developer Semi-Sr**  
+React · TypeScript · Next.js · GraphQL · Astro · Tailwind
 
 ---
-  
-| | | |
-|-|-|-|
-|![Blue square with a white i and n letters in the middle](https://img.icons8.com/color/25/000000/linkedin.png) [Esteban Monguí]("https://www.linkedin.com/in/esteban-mongu%C3%AD/") | ![Blue arroba symbol](https://img.icons8.com/color/25/000000/email.png) [esteband.itorres@gmail.com]("mailto:esteband.itorres@gmail.com") | ![Green phone](https://img.icons8.com/color/25/000000/phone.png) [+57 322 337 7495]("tel:+573223377495")
-   
-Feel free to contact me! 🙋‍♂️
 
+## 🧾 About Me
 
+I am a passionate Front-End Developer with over 4 years of experience **building modern and performant web applications.**  
+I specialize in developing e-commerce solutions** using React, TypeScript, and GraphQL **with a focus on **optimizing Core Web Vitals and scalable architectures.**
+
+I enjoy crafting clean and maintainable UI, leading technical efforts, and collaborating with multidisciplinary teams in fast-paced environments.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages & Frameworks:** TypeScript, JavaScript, React, Next.js, GraphQL, Astro
+- **Styling:** Sass, CSS3, HTML5, Tailwind
+- **Testing:** Jest, React Testing Library
+- **Tools:** Git, GitHub, Puppeteer, Lighthouse
+- **E-commerce Platforms:** VTEX
+
+---
+
+## 📌 Notable Projects
+
+- Developed e-commerce platforms launched in **5+ countries** with IT Globers.
+- Optimized **Core Web Vitals** (CLS 3.0 → 1.0, LCP < 2.5s) for retail clients.
+- Led UI architecture and wrote technical documentation for scalable web interfaces.
+- Integrated complex user interfaces using Figma-based designs and Redux for state/session management.
+
+---
+
+## 🧠 Soft Skills
+
+- Leadership & Team Mentorship  
+- Creative Thinking & Problem Solving  
+- Effective Communication (Spanish & English)  
+- Detail-Oriented & Collaborative Mindset
+
+---
+
+## 📫 Contact
+
+- 📧 Email: esteband.itorres@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tebi/)  
+- 🐙 [GitHub](https://github.com/EstebanMongui)  
+- 📱 Phone: +57 322 337 7495
+
+---
+
+Thanks for visiting! 🚀
